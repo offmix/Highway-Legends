@@ -1,0 +1,2 @@
+# Highway-Legends
+Highway Legendsはブラウザでプレイできるレースゲームです。
