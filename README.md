@@ -1,2 +1,2 @@
 # Highway-Legends
-![Highway Legendsロゴ](./image/Highway Legends logo.svg)
+![ロゴ](./image/HighwayLegendslogo.svg)
