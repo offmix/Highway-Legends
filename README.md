@@ -1,2 +1,2 @@
 # Highway-Legends
-Highway Legendsはブラウザでプレイできるレースゲームです。
+![Highway Legendsロゴ](./image/Highway Legends logo.svg)
